@@ -3,7 +3,7 @@
 App nativo em Kotlin com interface de configuração e serviço de acessibilidade experimental.
 
 ## Compilar
-Abra a pasta `android/` no Android Studio (JDK 17, Android SDK 35). Aguarde a sincronização e use **Build > Build APK(s)**. O APK de debug fica em `app/build/outputs/apk/debug/app-debug.apk`.
+Requisitos: JDK 17 e Android SDK 35. O projeto configura Java e Kotlin com bytecode JVM 17. No Android Studio, abra a pasta `android/`, aguarde a sincronização e use **Build > Build APK(s)**. O APK de debug fica em `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Ativar
 Instale, abra o app, toque em “Abrir configurações de acessibilidade” e habilite “Instagram Clean - bloqueador”. Depois abra o Instagram.
