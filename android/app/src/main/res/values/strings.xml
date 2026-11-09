@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Instagram Clean</string>
+    <string name="accessibility_description">Reconhece atalhos selecionados do Instagram para tentar bloqueá-los.</string>
+</resources>
